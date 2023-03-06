@@ -1,0 +1,131 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+*{color: tomato;
+}
+.link {
+    text-decoration: none;
+}
+.list {
+    list-style: none;
+}
+
+/*------------- header ---------------*/
+
+.header-link {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.header-milto {
+    font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.header-tel {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.header-logo {
+font-family: 'Raleway', sans-serif;
+}
+/*------------- solutios ---------------*/
+
+.solutions-title {
+    font-weight: 700;
+        font-size: 56px;
+        line-height: 60px;
+        /* or 107% */
+    
+        text-align: center;
+        letter-spacing: 0.02em;
+    
+        color: #FFFFFF;
+        background-color: rgb(182, 131, 55);
+}
+.solutions-button {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;   
+    display: flex;
+    align-items: center;        
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.solutions-list {}
+
+.solutions-item-text {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.solutions-text {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+/*------------- doing ---------------*/
+.doing-titel {
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+       text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2E2F42;
+}
+/*------------- team ---------------*/
+.team-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;}
+
+.team-list {}
+
+.list {}
+
+.team-item {}
+
+.team-item-titel {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.team-item-text {font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #434455;}
+
+.team-list {}
+
+.team-item {}
+/*------------- footer ---------------*/
+.footer-logo {
+    font-family: 'Raleway', sans-serif;
+}

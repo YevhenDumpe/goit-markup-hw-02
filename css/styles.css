@@ -30,7 +30,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--color-iris);
+    color: var(--color-iris); 
 }
 
 .header-logo {
@@ -56,6 +56,13 @@ font-weight: 500;
     color: var(--color-grey);
     
 }
+
+.header-link:hover,
+
+.header-link:focus {
+    color: var(--color-ocean)
+}
+
 .address-mail {
         font-weight: 400;
         font-size: 16px;

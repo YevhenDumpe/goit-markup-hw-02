@@ -31,8 +31,6 @@ body {
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     line-height: 1.17;
-    display: flex;
-    align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--color-iris);
@@ -40,11 +38,8 @@ body {
 
 .header-logo {
     font-weight: 800;
-    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     line-height: 1.33;
-    display: flex;
-    align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--color-grey);
@@ -207,11 +202,8 @@ font-family: 'Raleway', sans-serif;
 /*------------- footer ---------------*/
 .footer-logo {
     font-weight: 800;
-    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     line-height: 1.33;
-    display: flex;
-    align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--color-cloud);

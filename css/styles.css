@@ -21,9 +21,6 @@ body {
     list-style: none;
 }
 
-.link:is(:hover, :focus, :active) {
-    color: var(--color-ocean);
-}
 /*------------- logo ---------------*/
 
 .logo {

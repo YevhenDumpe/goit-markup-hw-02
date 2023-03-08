@@ -60,7 +60,7 @@ font-weight: 500;
 .header-link:hover,
 
 .header-link:focus {
-    color: var(--color-ocean)
+    color: var(--color-ocean);
 }
 
 .address-mail {
